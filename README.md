@@ -1,4 +1,4 @@
-# 华为云杯2019人工智能创新应用大赛
+# [华为云杯2019人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000021526/introduction)
 
 ## 赛事介绍
 
